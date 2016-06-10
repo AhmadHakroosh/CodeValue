@@ -1,0 +1,6 @@
+C:\Users\Ahmad\Documents\Study\CodeValue\Lab1-2\FirstModule\FirstModule\bin\Debug\FirstModule.exe.config
+C:\Users\Ahmad\Documents\Study\CodeValue\Lab1-2\FirstModule\FirstModule\bin\Debug\FirstModule.exe
+C:\Users\Ahmad\Documents\Study\CodeValue\Lab1-2\FirstModule\FirstModule\bin\Debug\FirstModule.pdb
+C:\Users\Ahmad\Documents\Study\CodeValue\Lab1-2\FirstModule\FirstModule\obj\Debug\FirstModule.csprojResolveAssemblyReference.cache
+C:\Users\Ahmad\Documents\Study\CodeValue\Lab1-2\FirstModule\FirstModule\obj\Debug\FirstModule.exe
+C:\Users\Ahmad\Documents\Study\CodeValue\Lab1-2\FirstModule\FirstModule\obj\Debug\FirstModule.pdb
