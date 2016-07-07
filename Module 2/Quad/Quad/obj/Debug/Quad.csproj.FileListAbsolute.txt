@@ -1,0 +1,6 @@
+C:\Users\Ahmad\Documents\Study\CodeValue\Lab2\Quad\Quad\bin\Debug\Quad.exe.config
+C:\Users\Ahmad\Documents\Study\CodeValue\Lab2\Quad\Quad\bin\Debug\Quad.exe
+C:\Users\Ahmad\Documents\Study\CodeValue\Lab2\Quad\Quad\bin\Debug\Quad.pdb
+C:\Users\Ahmad\Documents\Study\CodeValue\Lab2\Quad\Quad\obj\Debug\Quad.exe
+C:\Users\Ahmad\Documents\Study\CodeValue\Lab2\Quad\Quad\obj\Debug\Quad.pdb
+C:\Users\Ahmad\Documents\Study\CodeValue\Lab2\Quad\Quad\obj\Debug\Quad.csprojResolveAssemblyReference.cache

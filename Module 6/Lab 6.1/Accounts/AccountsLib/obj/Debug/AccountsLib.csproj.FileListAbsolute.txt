@@ -1,0 +1,10 @@
+C:\Users\Ahmad\Documents\Study\CodeValue\Module 3\Lab 3.1\Accounts\AccountsLib\bin\Debug\AccountsLib.dll
+C:\Users\Ahmad\Documents\Study\CodeValue\Module 3\Lab 3.1\Accounts\AccountsLib\bin\Debug\AccountsLib.pdb
+C:\Users\Ahmad\Documents\Study\CodeValue\Module 3\Lab 3.1\Accounts\AccountsLib\obj\Debug\AccountsLib.csprojResolveAssemblyReference.cache
+C:\Users\Ahmad\Documents\Study\CodeValue\Module 3\Lab 3.1\Accounts\AccountsLib\obj\Debug\AccountsLib.dll
+C:\Users\Ahmad\Documents\Study\CodeValue\Module 3\Lab 3.1\Accounts\AccountsLib\obj\Debug\AccountsLib.pdb
+C:\Users\Ahmad\Documents\Study\CodeValue\Module 6\Accounts\AccountsLib\bin\Debug\AccountsLib.dll
+C:\Users\Ahmad\Documents\Study\CodeValue\Module 6\Accounts\AccountsLib\bin\Debug\AccountsLib.pdb
+C:\Users\Ahmad\Documents\Study\CodeValue\Module 6\Accounts\AccountsLib\obj\Debug\AccountsLib.csprojResolveAssemblyReference.cache
+C:\Users\Ahmad\Documents\Study\CodeValue\Module 6\Accounts\AccountsLib\obj\Debug\AccountsLib.dll
+C:\Users\Ahmad\Documents\Study\CodeValue\Module 6\Accounts\AccountsLib\obj\Debug\AccountsLib.pdb

@@ -1,0 +1,5 @@
+C:\Users\Ahmad\Documents\Study\CodeValue\Module 4\Lab 4.1\Strings\Strings\bin\Debug\Strings.exe.config
+C:\Users\Ahmad\Documents\Study\CodeValue\Module 4\Lab 4.1\Strings\Strings\bin\Debug\Strings.exe
+C:\Users\Ahmad\Documents\Study\CodeValue\Module 4\Lab 4.1\Strings\Strings\bin\Debug\Strings.pdb
+C:\Users\Ahmad\Documents\Study\CodeValue\Module 4\Lab 4.1\Strings\Strings\obj\Debug\Strings.exe
+C:\Users\Ahmad\Documents\Study\CodeValue\Module 4\Lab 4.1\Strings\Strings\obj\Debug\Strings.pdb

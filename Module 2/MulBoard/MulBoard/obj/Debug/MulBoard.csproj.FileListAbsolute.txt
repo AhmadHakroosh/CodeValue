@@ -1,0 +1,6 @@
+C:\Users\Ahmad\Documents\Study\CodeValue\Lab2\MulBoard\MulBoard\bin\Debug\MulBoard.exe.config
+C:\Users\Ahmad\Documents\Study\CodeValue\Lab2\MulBoard\MulBoard\bin\Debug\MulBoard.exe
+C:\Users\Ahmad\Documents\Study\CodeValue\Lab2\MulBoard\MulBoard\bin\Debug\MulBoard.pdb
+C:\Users\Ahmad\Documents\Study\CodeValue\Lab2\MulBoard\MulBoard\obj\Debug\MulBoard.csprojResolveAssemblyReference.cache
+C:\Users\Ahmad\Documents\Study\CodeValue\Lab2\MulBoard\MulBoard\obj\Debug\MulBoard.exe
+C:\Users\Ahmad\Documents\Study\CodeValue\Lab2\MulBoard\MulBoard\obj\Debug\MulBoard.pdb

@@ -1,0 +1,5 @@
+C:\Users\Ahmad\Documents\Study\CodeValue\Lab2\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe.config
+C:\Users\Ahmad\Documents\Study\CodeValue\Lab2\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe
+C:\Users\Ahmad\Documents\Study\CodeValue\Lab2\GuessingGame\GuessingGame\bin\Debug\GuessingGame.pdb
+C:\Users\Ahmad\Documents\Study\CodeValue\Lab2\GuessingGame\GuessingGame\obj\Debug\GuessingGame.exe
+C:\Users\Ahmad\Documents\Study\CodeValue\Lab2\GuessingGame\GuessingGame\obj\Debug\GuessingGame.pdb
