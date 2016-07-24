@@ -7,7 +7,8 @@ using System.Threading.Tasks;
 namespace Quad
 {
     //Doesn't read input from command line
-    //Nice!
+    //No UnitTests.
+    //Otehr than that nice!
     class Program
     {
         static void Main(string[] args)
