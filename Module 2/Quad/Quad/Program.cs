@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace Quad
 {
+    //Doesn't read input from command line
+    //Nice!
     class Program
     {
         static void Main(string[] args)
@@ -14,6 +16,8 @@ namespace Quad
             while (true)
             {
                 Console.WriteLine("Enter a new Quadratic Equation:");
+
+                //the convention in C# is to use the 'string' (small 's') alias. It will compile to System.String.
                 String equation = Console.ReadLine();
                 String[] arguments = equation.Split(' ');
 
@@ -24,8 +28,10 @@ namespace Quad
 
                 else
                 {
+                    //TryParse, great.
                     if (!double.TryParse(arguments[0], out a))
                     {
+                        //C# 6 feature (string interpolation), nice!
                         Console.WriteLine($"{arguments[0]} is not a valid argument!");
                         continue;
                     }
