@@ -78,6 +78,7 @@ namespace Rationals
             return $"{this.Numerator}/{this.Denominator}";
         }
 
+        //This isn't object.Equals
         public bool Equals(Rational num)
         {
             this.Reduce();
