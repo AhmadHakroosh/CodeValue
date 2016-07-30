@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace AccountsLib
 {
+    //The class file (Class1.cs) should have a better name.
     public class Account
     {
         internal Account(int id)
@@ -17,6 +18,9 @@ namespace AccountsLib
 
         public double Balance { get; private set; }
 
+        //A console.wrtieline isn't a good idea. How should you konw whether the deposit succedded or not?
+        //How will you test your code via UnitTests?
+        //This should throw an exception.
         public void Deposit(double amount)
         {
             if (amount < 0)
@@ -29,6 +33,9 @@ namespace AccountsLib
             }
         }
 
+        //A console.wrtieline isn't a good idea. How should you konw whether the deposit succedded or not?
+        //How will you test your code via UnitTests?
+        //This should throw an exception.
         public void Withdraw(double amount)
         {
             if (amount < 0)
@@ -47,6 +54,7 @@ namespace AccountsLib
             }
         }
 
+        //Nice
         public void Transfer(Account account, double amount)
         {
             Withdraw(amount);
@@ -54,6 +62,7 @@ namespace AccountsLib
         }
     }
 
+    //nice.
     public static class AccountFactory
     {
         private static int id = 1;
