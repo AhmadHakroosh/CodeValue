@@ -6,3 +6,6 @@ C:\Users\Ahmad\Documents\Study\CodeValue\Module 3\Lab 3.1\Accounts\program\obj\D
 C:\Users\Ahmad\Documents\Study\CodeValue\Module 3\Lab 3.1\Accounts\program\obj\Debug\program.pdb
 C:\Users\Ahmad\Documents\Study\CodeValue\Module 3\Lab 3.1\Accounts\program\bin\Debug\AccountsLib.dll
 C:\Users\Ahmad\Documents\Study\CodeValue\Module 3\Lab 3.1\Accounts\program\bin\Debug\AccountsLib.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Ahmad Hakroosh\CodeValue\Module 3\Lab 3.1\Accounts\program\bin\Debug\program.exe.config
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Ahmad Hakroosh\CodeValue\Module 3\Lab 3.1\Accounts\program\obj\Debug\program.exe
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Ahmad Hakroosh\CodeValue\Module 3\Lab 3.1\Accounts\program\obj\Debug\program.pdb
