@@ -6,16 +6,22 @@ using System.Threading.Tasks;
 
 namespace Rationals
 {
+    //You should have created a different class for this
+    //Missing the value property.
     public struct Rational
     {
         public int Numerator { get; private set; }
         public int Denominator { get; private set; }
 
+        //Why do you need this?
         public double DoubleNumerator
         {
             get { return (double) Numerator; }
         }
 
+
+        //Why do you need this?
+        //Also the name is not correct.
         public double DoubleDenominator
         {
             get { return (double) Denominator; }
@@ -28,7 +34,7 @@ namespace Rationals
                 this.Numerator = num;
                 this.Denominator = den;
             }
-
+            //It was better to throw an exception
             else
             {
                 this.Numerator = 0;
@@ -97,23 +103,21 @@ namespace Rationals
     {
         static void Main(string[] args)
         {
-            Rational num1 = new Rational(4, 8);
-            Rational num2 = new Rational(3, 9);
-            Rational num3 = new Rational(4, 6);
+            Rational num1 = new Rational(1, 2);
+            Rational num2 = new Rational(1, 2);
 
-            Rational num4 = num1.Add(num2);
-            Rational num5 = num2.Mul(num3);
+            Rational num3 = new Rational(1, 1);
 
-            Rational num6 = new Rational(1, 2);
-            Rational num7 = new Rational(5);
-            Rational num8 = new Rational(1, 0);
+            Rational num4 = num2.Mul(num2);
 
-            Console.WriteLine($"{num1} + {num2} = {num4}");
-            Console.WriteLine($"{num2} * {num3} = {num5}");
-            Console.WriteLine($"{num1} == {num6} ? {num1.Equals(num6)}");
-            Console.WriteLine($"{num7}");
-            Console.WriteLine($"{num8}");
-            Console.ReadLine();
+            Rational num6 = new Rational(2, 4);
+            Rational num7 = new Rational(2, 4);
+            num7.Reduce();
+
+
+            Console.WriteLine($"{num1} + {num2} = {num3}");
+            Console.WriteLine($"{num2} * {num2} = {num4}");
+            Console.WriteLine($"{num6} reduced {num7}");
         }
     }
 }
