@@ -9,6 +9,7 @@ namespace Primes
 {
     class Program
     {
+        //Should return an array
         public static List<int> CalcPrimes(int a, int b)
         {
             List<int> primes = new List<int>();
@@ -24,8 +25,16 @@ namespace Primes
 
         private static bool IsPrime(int a)
         {
-            if (a == 2) return true;
-            else if ((a & 1) == 0) return false;
+            //The convention in C# for body statements is to start with new line, and to have bracets
+            if (a == 2)
+            {
+                return true;
+            }
+
+            else if ((a & 1) == 0)
+            {
+                return false;
+            }
             else
             {
                 for (int i = 3; i * i < a; i++)
