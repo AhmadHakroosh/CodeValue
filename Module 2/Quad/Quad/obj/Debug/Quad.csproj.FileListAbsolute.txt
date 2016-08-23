@@ -4,3 +4,9 @@ C:\Users\Ahmad\Documents\Study\CodeValue\Lab2\Quad\Quad\bin\Debug\Quad.pdb
 C:\Users\Ahmad\Documents\Study\CodeValue\Lab2\Quad\Quad\obj\Debug\Quad.exe
 C:\Users\Ahmad\Documents\Study\CodeValue\Lab2\Quad\Quad\obj\Debug\Quad.pdb
 C:\Users\Ahmad\Documents\Study\CodeValue\Lab2\Quad\Quad\obj\Debug\Quad.csprojResolveAssemblyReference.cache
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Ahmad Hakroosh\CodeValue\Module 2\Quad\Quad\bin\Debug\Quad.exe.config
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Ahmad Hakroosh\CodeValue\Module 2\Quad\Quad\obj\Debug\Quad.exe
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Ahmad Hakroosh\CodeValue\Module 2\Quad\Quad\obj\Debug\Quad.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Ahmad Hakroosh\CodeValue\Module 2\Quad\Quad\bin\Debug\Quad.exe
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Ahmad Hakroosh\CodeValue\Module 2\Quad\Quad\bin\Debug\Quad.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Ahmad Hakroosh\CodeValue\Module 2\Quad\Quad\obj\Debug\Quad.csprojResolveAssemblyReference.cache

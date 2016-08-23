@@ -14,6 +14,8 @@ namespace Strings
             {
                 string sentence = Console.ReadLine();
 
+                //1. string.IsNullOrEmpty(string) is better
+                //2. this is null only if stdin was closed.
                 if (sentence == null)
                 {
                     return;
@@ -21,6 +23,7 @@ namespace Strings
 
                 else
                 {
+                    //What about tabs and other white spaces?
                     string[] words = sentence.Split(' ');
                     Console.WriteLine($"The sentence contains {words.Length} words.");
                     Array.Reverse(words);

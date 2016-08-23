@@ -3,3 +3,9 @@ C:\Users\Ahmad\Documents\Study\CodeValue\Module 4\Lab 4.1\Strings\Strings\bin\De
 C:\Users\Ahmad\Documents\Study\CodeValue\Module 4\Lab 4.1\Strings\Strings\bin\Debug\Strings.pdb
 C:\Users\Ahmad\Documents\Study\CodeValue\Module 4\Lab 4.1\Strings\Strings\obj\Debug\Strings.exe
 C:\Users\Ahmad\Documents\Study\CodeValue\Module 4\Lab 4.1\Strings\Strings\obj\Debug\Strings.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Ahmad Hakroosh\CodeValue\Module 4\Lab 4.1\Strings\Strings\bin\Debug\Strings.exe.config
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Ahmad Hakroosh\CodeValue\Module 4\Lab 4.1\Strings\Strings\obj\Debug\Strings.exe
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Ahmad Hakroosh\CodeValue\Module 4\Lab 4.1\Strings\Strings\obj\Debug\Strings.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Ahmad Hakroosh\CodeValue\Module 4\Lab 4.1\Strings\Strings\bin\Debug\Strings.exe
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Ahmad Hakroosh\CodeValue\Module 4\Lab 4.1\Strings\Strings\bin\Debug\Strings.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Ahmad Hakroosh\CodeValue\Module 4\Lab 4.1\Strings\Strings\obj\Debug\Strings.csprojResolveAssemblyReference.cache

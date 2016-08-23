@@ -4,3 +4,6 @@ C:\Users\Ahmad\Documents\Study\CodeValue\Lab2\HelloPerson\HelloPerson\bin\Debug\
 C:\Users\Ahmad\Documents\Study\CodeValue\Lab2\HelloPerson\HelloPerson\obj\Debug\HelloPerson.csprojResolveAssemblyReference.cache
 C:\Users\Ahmad\Documents\Study\CodeValue\Lab2\HelloPerson\HelloPerson\obj\Debug\HelloPerson.exe
 C:\Users\Ahmad\Documents\Study\CodeValue\Lab2\HelloPerson\HelloPerson\obj\Debug\HelloPerson.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Ahmad Hakroosh\CodeValue\Module 2\HelloPerson\HelloPerson\bin\Debug\HelloPerson.exe.config
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Ahmad Hakroosh\CodeValue\Module 2\HelloPerson\HelloPerson\obj\Debug\HelloPerson.exe
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Ahmad Hakroosh\CodeValue\Module 2\HelloPerson\HelloPerson\obj\Debug\HelloPerson.pdb

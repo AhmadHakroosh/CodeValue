@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Calculator
 {
+    //No UnitTests.
+    //Did you consider to extract the calculation logic to a different class and possibly file?
+    //the convention is to use aliases of known types such as double, int, string, etc...double will compile to System.Double, int will compile to System.Int32 and string will compile to System.String.
     class Program
     {
         static void Main(string[] args)
@@ -21,6 +24,8 @@ namespace Calculator
 
                 if (Double.TryParse(arguments[0], out num1) && Double.TryParse(arguments[2], out num2))
                 {
+                    //Hmm the IndexOf is redundant in this case. You could have used the returned indnex of IndexOf to calculate the result dynamically.
+                    //Maybe instead of array of operators, you could have an array of methods, when each method is the logic of an operator
                     if (Array.IndexOf(validOps, arguments[1]) > -1)
                     {
                         if (arguments[1].Equals("+"))

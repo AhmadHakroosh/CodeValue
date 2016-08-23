@@ -4,3 +4,8 @@ C:\Users\Ahmad\Documents\Study\CodeValue\Module 3\Lab 3.2\Rationals\Rationals\bi
 C:\Users\Ahmad\Documents\Study\CodeValue\Module 3\Lab 3.2\Rationals\Rationals\obj\Debug\Rationals.csprojResolveAssemblyReference.cache
 C:\Users\Ahmad\Documents\Study\CodeValue\Module 3\Lab 3.2\Rationals\Rationals\obj\Debug\Rationals.exe
 C:\Users\Ahmad\Documents\Study\CodeValue\Module 3\Lab 3.2\Rationals\Rationals\obj\Debug\Rationals.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Ahmad Hakroosh\CodeValue\Module 3\Lab 3.2\Rationals\Rationals\bin\Debug\Rationals.exe.config
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Ahmad Hakroosh\CodeValue\Module 3\Lab 3.2\Rationals\Rationals\bin\Debug\Rationals.exe
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Ahmad Hakroosh\CodeValue\Module 3\Lab 3.2\Rationals\Rationals\bin\Debug\Rationals.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Ahmad Hakroosh\CodeValue\Module 3\Lab 3.2\Rationals\Rationals\obj\Debug\Rationals.exe
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Ahmad Hakroosh\CodeValue\Module 3\Lab 3.2\Rationals\Rationals\obj\Debug\Rationals.pdb

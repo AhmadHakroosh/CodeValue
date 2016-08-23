@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace BinaryDisplay
 {
+    //No UnitTests.
+    //No input validations.
+    //Wrong result for the count of '1' in negative numbers
     class Program
     {
         static void Main(string[] args)

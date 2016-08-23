@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace HelloPerson
 {
+    //No input validation
     class Program
     {
         static void Main(string[] args)
@@ -13,6 +14,8 @@ namespace HelloPerson
             Console.WriteLine("What's your name?");
             //Read the user's name
             String name = Console.ReadLine();
+
+            //Nice use of string interpolation from C# 6
             //Print hello "name"
             Console.WriteLine($"Hello {name}");
             Console.WriteLine("Please enter a number from 1 to 10:");
