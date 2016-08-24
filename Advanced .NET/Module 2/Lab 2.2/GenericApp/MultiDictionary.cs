@@ -7,15 +7,19 @@ using System.Threading.Tasks;
 
 namespace GenericApp
 {
-    class MultiDictionary<K, V> : IMultiDictionary<K, V> where K : class where V : new()
+    //Nice, though, why didn't you strict the class for only value types?
+    class MultiDictionary<K, V> : IMultiDictionary<K, V> where K : struct where V : new()
     {
         Dictionary<K, LinkedList<V>> _dic = new Dictionary<K, LinkedList<V>>();
         bool _Checked = false;
 
+        //C# 6 features - awesome
         IEnumerator IEnumerable.GetEnumerator() => this.GetEnumerator();
         public void Clear() => _dic.Clear();
         public bool Contains(K key, V value) => _dic.ContainsKey(key) && _dic[key].Contains(value);
         public bool ContainsKey(K key) => _dic.ContainsKey(key);
+
+        //Gr8 job
         public void CreateNewValue(K key) => Add(key, new V());
         public bool Remove(K key) => _dic.Remove(key);
 
@@ -48,6 +52,7 @@ namespace GenericApp
         {
             if (!_Checked)
             {
+                //Nice
                 if (Attribute.GetCustomAttribute(key.GetType(), typeof(KeyAttribute)) == null)
                 {
                     throw new ArgumentException("Key must be with 'KeyAttribute'.");
