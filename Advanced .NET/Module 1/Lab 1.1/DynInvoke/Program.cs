@@ -39,12 +39,15 @@ namespace DynInvoke
             
             MethodInfo info = type.GetMethod("Hello", new Type[] {typeof(string)});
 
+            //You should check wither this method exists or not.
             return info.Invoke(obj, new object[] { name }).ToString();
         }
 
 
         static void Main(string[] args)
         {
+            //Usually we use the alias object instead of Object, hense the small letter 'o'. 'object' will be compiled to System.Object.
+            //Nice
             Object [] greetings =  new object[]{ new A(), new B(), new C()};
 
             foreach (var greeting in greetings)
