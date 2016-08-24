@@ -8,17 +8,26 @@ namespace TicTacToe
 {
     class TicTacToeGame
     {
+        //Consider a better name
         private int N = 3;
+
+        //Consider better enum names
         enum CELL { X, O, E };
+
+        //The convention in C# for private fields is to start with "_" and then use camel casing. like _board.
         private CELL[][] Board;
+
         private CELL Turn = CELL.O;
+
         private bool isBoardEmpty = true;
 
+        //It isn't a good idea to write console messages in a logic/query method...
         public bool IsGameOver()
         {
             bool isOver = CheckCols() || CheckRows() || CheckDiag();
             if (isOver)
             {
+                //Why is this here? This methods hould be a query. It shouldn't change state.
                 ChangeTurn();
                 Console.WriteLine($"{Turn} has won! Game Over!");
             }
@@ -48,6 +57,8 @@ namespace TicTacToe
             {
                 for (int j = 0; j < N; j++)
                 {
+                    //code duplicaition
+                    //Console.Write($"${Board[i][j]} {j == N - 1}");
                     if (j == N - 1)
                     {
                         Console.Write($"{Board[i][j]}  ");
@@ -57,6 +68,8 @@ namespace TicTacToe
                         Console.Write($"{Board[i][j]} | ");
                     }
                 }
+
+                //Console.WriteLine();
                 Console.WriteLine("");
                 if (i != N - 1)
                 {

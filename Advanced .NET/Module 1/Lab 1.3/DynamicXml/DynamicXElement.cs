@@ -42,6 +42,7 @@ namespace DynamicXml
             result = null;
             bool found = false;
 
+            //Nice
             if (indexes.Length == 2 && indexes[0] is string && indexes[1] is int)
             {
                 var allNodes = _element.Elements(indexes[0].ToString());

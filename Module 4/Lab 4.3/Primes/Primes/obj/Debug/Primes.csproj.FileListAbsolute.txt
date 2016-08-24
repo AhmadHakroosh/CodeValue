@@ -4,3 +4,9 @@ C:\Users\Ahmad\Documents\Study\CodeValue\Module 4\Lab 4.3\Primes\Primes\bin\Debu
 C:\Users\Ahmad\Documents\Study\CodeValue\Module 4\Lab 4.3\Primes\Primes\obj\Debug\Primes.csprojResolveAssemblyReference.cache
 C:\Users\Ahmad\Documents\Study\CodeValue\Module 4\Lab 4.3\Primes\Primes\obj\Debug\Primes.exe
 C:\Users\Ahmad\Documents\Study\CodeValue\Module 4\Lab 4.3\Primes\Primes\obj\Debug\Primes.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Ahmad Hakroosh\CodeValue\Module 4\Lab 4.3\Primes\Primes\bin\Debug\Primes.exe.config
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Ahmad Hakroosh\CodeValue\Module 4\Lab 4.3\Primes\Primes\obj\Debug\Primes.exe
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Ahmad Hakroosh\CodeValue\Module 4\Lab 4.3\Primes\Primes\obj\Debug\Primes.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Ahmad Hakroosh\CodeValue\Module 4\Lab 4.3\Primes\Primes\bin\Debug\Primes.exe
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Ahmad Hakroosh\CodeValue\Module 4\Lab 4.3\Primes\Primes\bin\Debug\Primes.pdb
+E:\Programming\Work\Fixing homeworks\Module 2 - 7\Ahmad Hakroosh\CodeValue\Module 4\Lab 4.3\Primes\Primes\obj\Debug\Primes.csprojResolveAssemblyReference.cache
