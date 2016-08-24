@@ -18,6 +18,8 @@ namespace AttribDemo
         public DateTime ReviewDate => _reviewDate;
         public bool Approved => _approved;
 
+        //You could have used a readonly propeties.
+
         public CodeReviewAttribute(string name, string reviewDate, bool approved)
         {
             _name = name;

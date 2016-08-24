@@ -17,21 +17,27 @@ namespace AttribDemo
 
             foreach (Type type in types)
             {
+                //You could have used the generic overload
                 object[] customAttributes = type.GetCustomAttributes(typeof(CodeReviewAttribute), false);
 
-                Console.WriteLine($"Code review for {type.Name}  Length: {customAttributes.Length}");
-
-                foreach (CodeReviewAttribute Attribute in customAttributes)
+                if (null != customAttributes && 0 < customAttributes.Length)
                 {
-                    Console.WriteLine($"Name: {Attribute.Name} Date: {Attribute.ReviewDate.ToShortDateString()} Approved: {Attribute.Approved} ");
+                    Console.WriteLine($"Code review for {type.Name}  Length: {customAttributes.Length}");
 
-                    if (!Attribute.Approved)
+                    foreach (CodeReviewAttribute Attribute in customAttributes)
                     {
-                        Approved = false;
+                        Console.WriteLine(
+                            $"Name: {Attribute.Name} Date: {Attribute.ReviewDate.ToShortDateString()} Approved: {Attribute.Approved} ");
+
+                        if (!Attribute.Approved)
+                        {
+                            Approved = false;
+                        }
                     }
+
+                    Console.WriteLine();
                 }
 
-                Console.WriteLine();
             }
 
             return Approved;
