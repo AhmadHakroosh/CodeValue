@@ -13,6 +13,7 @@ namespace DynamicXml
 
         private readonly XElement _element;
 
+        //The constructor is not private.
         public DynamicXElement(XElement element)
         {
             _element = element;

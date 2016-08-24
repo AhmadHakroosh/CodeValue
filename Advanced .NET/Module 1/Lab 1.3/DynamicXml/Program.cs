@@ -7,6 +7,7 @@ using System.Xml.Linq;
 
 namespace DynamicXml
 {
+    //Nice work
     class Program
     {
         static void Main(string[] args)
